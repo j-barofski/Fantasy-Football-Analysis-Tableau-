@@ -1,5 +1,5 @@
 # Fantasy-Football-Analysis-Tableau-
-I analyzed the first six weeks of my fantasy football league using Tableau to find out in more detail just how well each team is doing. Thanks to Claude, I was able to use a Python script to pull the data I wanted from Sleeper's API. Sleeper is the app that my fantasy football league is using. 
+I analyzed the first six weeks of my fantasy football league using Tableau to find out in more detail just how well each team is doing. 
 
 # Standings
 <img width="1133" height="116" alt="image" src="https://github.com/user-attachments/assets/629f6ecf-2203-45fc-a875-d00158197db7" />
